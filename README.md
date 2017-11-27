@@ -1,6 +1,6 @@
 # SampleCodeOpenCV
 
-cd <OpenCV main directory>
+cd <OpenCV_main_directory>
 
 cmake .
 
